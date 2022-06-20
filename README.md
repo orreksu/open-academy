@@ -1,6 +1,10 @@
 # Open Academy
 Community sourced education on overlooked subjects
+Some of the greatly undelooked subjects in modern education system are Politics, Finance, Economy.
 
+
+## Politics
+- ...
 
 ## Economy
 - [How Economy Machine Works](https://youtu.be/PHe0bXAIuk0) by Ray Dalio
